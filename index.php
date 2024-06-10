@@ -1,4 +1,5 @@
 <?php
+//test merge
 session_start();
 include_once ('init.php');
 
